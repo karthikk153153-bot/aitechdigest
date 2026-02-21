@@ -35,7 +35,7 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/categories" className="hover:text-white transition-colors">
+                <Link href="/articles" className="hover:text-white transition-colors">
                   Categories
                 </Link>
               </li>
