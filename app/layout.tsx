@@ -5,24 +5,24 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'AI Tech Digest - Latest AI & Technology News, Reviews & Guides',
-  description: 'Your trusted source for AI news, technology trends, software reviews, and expert guides. Stay updated with the latest in artificial intelligence and tech.',
-  keywords: 'AI news, technology news, software reviews, AI tools, tech guides, artificial intelligence, tech trends',
+  title: 'Tech Radar - This is Testing',
+  description: 'Tech Radar - Testing automation and deployment systems.',
+  keywords: 'tech radar, technology news, testing, automation, deployment, AI tools',
   icons: {
     icon: '/favicon.svg',
     shortcut: '/favicon.svg',
     apple: '/favicon.svg',
   },
   openGraph: {
-    title: 'AI Tech Digest - Latest AI & Technology News',
-    description: 'Your trusted source for AI news, technology trends, and software reviews.',
+    title: 'Tech Radar - This is Testing',
+    description: 'Tech Radar - Testing automation and deployment systems.',
     type: 'website',
     url: 'https://aidealradar.vercel.app',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'AI Tech Digest - Latest AI & Technology News',
-    description: 'Your trusted source for AI news, technology trends, and software reviews.',
+    title: 'Tech Radar - This is Testing',
+    description: 'Tech Radar - Testing automation and deployment systems.',
   },
 }
 
@@ -42,7 +42,7 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "WebSite",
-              "name": "AI Tech Digest",
+              "name": "Tech Radar - This is Testing",
               "url": "https://aidealradar.vercel.app",
               "potentialAction": {
                 "@type": "SearchAction",

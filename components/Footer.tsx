@@ -13,10 +13,10 @@ export default function Footer() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
                 </svg>
               </div>
-              <span className="text-xl font-bold text-white">AI Tech Digest</span>
+              <span className="text-xl font-bold text-white">Tech Radar</span>
             </div>
             <p className="text-gray-400 mb-4 max-w-md">
-              Your trusted source for AI news, technology trends, software reviews, and expert guides.
+              Tech Radar - Testing automation and deployment systems.
             </p>
           </div>
 
@@ -72,7 +72,7 @@ export default function Footer() {
 
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-sm text-gray-500">
-          <p>&copy; {new Date().getFullYear()} AI Tech Digest. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Tech Radar - This is Testing. All rights reserved.</p>
           <p className="mt-2 text-xs">Powered by Next.js &bull; Live on Vercel</p>
         </div>
       </div>

@@ -9,9 +9,9 @@ export default function AboutPage() {
 
       <div className="bg-gradient-to-r from-blue-600 to-purple-600 text-white py-16">
         <div className="container max-w-4xl">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">About AI Tech Digest</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">About Tech Radar</h1>
           <p className="text-xl text-blue-100">
-            Your trusted source for AI news, technology trends, and expert insights
+            Tech Radar - Testing automation and deployment systems
           </p>
         </div>
       </div>
@@ -21,17 +21,17 @@ export default function AboutPage() {
           <div className="bg-blue-50 border-l-4 border-blue-600 p-6 mb-8">
             <h2 className="text-2xl font-bold text-blue-900 mb-2">Who We Are</h2>
             <p className="text-gray-700">
-              AI Tech Digest is your trusted source for unbiased software reviews, AI tool comparisons, and productivity recommendations. Our mission is to help individuals and businesses make informed decisions about the software they use every day.
+              Tech Radar is a testing platform for automation and deployment systems. We are testing AI-powered content creation, deployment pipelines, and autonomous website management.
             </p>
           </div>
 
           <h2 className="text-2xl font-bold text-blue-900 mb-4">Our Mission</h2>
           <div className="bg-gradient-to-r from-blue-50 to-purple-50 p-6 rounded-lg mb-8 text-center">
-            <p className="text-xl font-semibold text-blue-900 mb-2">Unbiased Reviews You Can Trust</p>
-            <p className="text-gray-700">We don't accept payments for positive reviews. Every comparison is data-driven and honest.</p>
+            <p className="text-xl font-semibold text-blue-900 mb-2">Testing Automation Systems</p>
+            <p className="text-gray-700">We are developing and testing autonomous content generation, automated deployment pipelines, and intelligent website management systems.</p>
           </div>
 
-          <h2 className="text-2xl font-bold text-blue-900 mb-4">What We Cover</h2>
+          <h2 className="text-2xl font-bold text-blue-900 mb-4">What We Test</h2>
           <ul className="space-y-3 mb-8">
             <li className="flex items-start">
               <svg className="w-6 h-6 text-blue-600 mr-3 mt-1 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
