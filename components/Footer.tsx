@@ -73,7 +73,10 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-sm text-gray-500">
           <p>&copy; {new Date().getFullYear()} Tech Radar - This is Testing. All rights reserved.</p>
-          <p className="mt-2 text-xs">Powered by Next.js &bull; Live on Vercel</p>
+          <p className="mt-2 text-xs">
+            Powered by Next.js &bull; Live on Vercel &bull; 
+            Last Updated: {new Date().toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', timeZone: 'Asia/Kolkata' })}
+          </p>
         </div>
       </div>
     </footer>
