@@ -2,7 +2,7 @@
 title: "Top 10 Productivity Tools Every Professional Needs in 2026"
 description: "Discover the best productivity apps and tools for 2026. From project management to note-taking, boost your efficiency with these must-have applications."
 date: "2026-02-21"
-author: "AI Tech Digest Team"
+author: "Tech Radar Testing Team"
 category: "Productivity"
 tags: ["Productivity", "Apps", "Tools", "Remote Work", "Efficiency"]
 featured: true

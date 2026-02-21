@@ -2,7 +2,7 @@
 title: "OpenAI Announces GPT-5 with Revolutionary Reasoning Capabilities"
 description: "OpenAI launches GPT-5, featuring advanced reasoning, multimodal understanding, and significantly reduced hallucinations. Here's what you need to know."
 date: "2026-02-21"
-author: "AI Tech Digest Team"
+author: "Tech Radar Testing Team"
 category: "AI News"
 tags: ["OpenAI", "GPT-5", "Artificial Intelligence", "Technology"]
 featured: true

@@ -2,7 +2,7 @@
 title: "Best AI Writing Tools 2026: Complete Comparison & Reviews"
 description: "Comprehensive comparison of GPT-4, Claude 4, Jasper 2026, and other leading AI writing assistants. Find the perfect tool for your needs."
 date: "2026-02-21"
-author: "AI Tech Digest Team"
+author: "Tech Radar Testing Team"
 category: "AI Tools"
 tags: ["AI Writing", "GPT-4", "Claude", "Jasper", "Productivity"]
 featured: true

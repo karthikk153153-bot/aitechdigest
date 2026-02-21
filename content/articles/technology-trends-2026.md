@@ -2,7 +2,7 @@
 title: "Technology Trends 2026: What's Next for AI, Quantum Computing, and Beyond"
 description: "Explore the top technology trends shaping 2026. From breakthrough AI applications to quantum computing advancements, here's what to expect."
 date: "2026-02-21"
-author: "AI Tech Digest Team"
+author: "Tech Radar Testing Team"
 category: "Technology"
 tags: ["Tech Trends", "AI", "Quantum Computing", "Future Tech", "Innovation"]
 featured: true
