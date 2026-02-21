@@ -8,6 +8,11 @@ export const metadata: Metadata = {
   title: 'AI Tech Digest - Latest AI & Technology News, Reviews & Guides',
   description: 'Your trusted source for AI news, technology trends, software reviews, and expert guides. Stay updated with the latest in artificial intelligence and tech.',
   keywords: 'AI news, technology news, software reviews, AI tools, tech guides, artificial intelligence, tech trends',
+  icons: {
+    icon: '/favicon.svg',
+    shortcut: '/favicon.svg',
+    apple: '/favicon.svg',
+  },
   openGraph: {
     title: 'AI Tech Digest - Latest AI & Technology News',
     description: 'Your trusted source for AI news, technology trends, and software reviews.',
@@ -29,6 +34,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         <link rel="canonical" href="https://aidealradar.vercel.app" />
         <script
           type="application/ld+json"
