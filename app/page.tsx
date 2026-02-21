@@ -18,10 +18,10 @@ async function Home() {
         <div className="container">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-4xl md:text-6xl font-extrabold mb-6 leading-tight">
-              AI & Technology News
+              Tech Radar - This is Testing
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-blue-100">
-              Expert insights, reviews, and guides on the latest AI tools and technology trends
+              Testing automation and deployment systems
             </p>
             <Link
               href="/articles"
