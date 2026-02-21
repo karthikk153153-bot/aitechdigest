@@ -39,3 +39,6 @@ next-env.d.ts
 *.pem
 .env
 .env.local
+
+# Old static files backup
+_old-static-backup/
